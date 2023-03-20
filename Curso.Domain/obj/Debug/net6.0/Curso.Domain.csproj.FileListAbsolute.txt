@@ -1,0 +1,12 @@
+C:\Users\Appelsoft\Documents\Projetos\Cursos\Athena 2\Curso\Curso.Domain\bin\Debug\net6.0\Curso.Domain.deps.json
+C:\Users\Appelsoft\Documents\Projetos\Cursos\Athena 2\Curso\Curso.Domain\bin\Debug\net6.0\Curso.Domain.dll
+C:\Users\Appelsoft\Documents\Projetos\Cursos\Athena 2\Curso\Curso.Domain\bin\Debug\net6.0\Curso.Domain.pdb
+C:\Users\Appelsoft\Documents\Projetos\Cursos\Athena 2\Curso\Curso.Domain\obj\Debug\net6.0\Curso.Domain.csproj.AssemblyReference.cache
+C:\Users\Appelsoft\Documents\Projetos\Cursos\Athena 2\Curso\Curso.Domain\obj\Debug\net6.0\Curso.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Appelsoft\Documents\Projetos\Cursos\Athena 2\Curso\Curso.Domain\obj\Debug\net6.0\Curso.Domain.AssemblyInfoInputs.cache
+C:\Users\Appelsoft\Documents\Projetos\Cursos\Athena 2\Curso\Curso.Domain\obj\Debug\net6.0\Curso.Domain.AssemblyInfo.cs
+C:\Users\Appelsoft\Documents\Projetos\Cursos\Athena 2\Curso\Curso.Domain\obj\Debug\net6.0\Curso.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Appelsoft\Documents\Projetos\Cursos\Athena 2\Curso\Curso.Domain\obj\Debug\net6.0\Curso.Domain.dll
+C:\Users\Appelsoft\Documents\Projetos\Cursos\Athena 2\Curso\Curso.Domain\obj\Debug\net6.0\refint\Curso.Domain.dll
+C:\Users\Appelsoft\Documents\Projetos\Cursos\Athena 2\Curso\Curso.Domain\obj\Debug\net6.0\Curso.Domain.pdb
+C:\Users\Appelsoft\Documents\Projetos\Cursos\Athena 2\Curso\Curso.Domain\obj\Debug\net6.0\ref\Curso.Domain.dll
